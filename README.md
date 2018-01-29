@@ -1,4 +1,4 @@
 # hello-world
-Simple "Hello World" Repo/n
-blablablub /n
+Simple "Hello World" Repo
+blablablub
 alsdfjl.
